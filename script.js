@@ -45,7 +45,7 @@
                if(input.type == "password"){
                  input.type = "text";
                  showBtn.textContent = "HIDE";
-                 showBtn.style.color = "#23ad5c";
+                 showBtn.style.color = "#ee9595";
                }else{
                  input.type = "password";
                  showBtn.textContent = "SHOW";
